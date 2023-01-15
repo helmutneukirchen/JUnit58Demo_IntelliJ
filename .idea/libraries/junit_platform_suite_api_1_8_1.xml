@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="junit-platform-suite-api-1.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-suite-api-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-suite-commons-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-suite-engine-1.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
